@@ -1,1 +1,1 @@
-# ECM2423---Artificial-Intelligence-and-Applications
+# ECM2423-Artificial-Intelligence-and-Applications
